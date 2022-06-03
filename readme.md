@@ -20,5 +20,7 @@ Comenzaremos iniciando git bash y nos posicionaremos donde queremos tener el rep
 >git remote add origin https://github.com/juanmanuee/repo01.git
 #### Luego
 >git branch -M main
-#### Y finalmente realizaremos el push para subir o actualizar nuestro repositorio de github
+#### Y por ultimo
 >git push -u origin main
+#### Y finalmente realizaremos el push para subir o actualizar nuestro repositorio de github
+>git push
